@@ -3,7 +3,7 @@
 ## Setup
 
 ```bash
-brew tab mongodb/brew
+brew tap mongodb/brew
 
 ```
 
